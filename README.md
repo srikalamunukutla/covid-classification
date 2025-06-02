@@ -1,1 +1,1 @@
-A machine learning model that predicts which region of the world a specific COVID-19 genome strain originated from. 
+A machine learning classifier that predicts which country a SARS-CoV-2 genome strain originated from, so that we can identify where there may be outbreaks in the future and prevent virus spread.
